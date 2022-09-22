@@ -1,0 +1,45 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0%;
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.name-higlight {
+    font-size: 60px;
+    color: rgb(241, 9, 160);
+}
+
+
+.link-button {
+    text-decoration: none;
+    background-color: orangered;
+    color: aliceblue;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.mediam-top {
+    margin-top: 100px;
+}
